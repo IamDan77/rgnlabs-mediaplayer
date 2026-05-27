@@ -4,7 +4,7 @@ Convert any existing speaker you have to a fully local, home assistant compatibl
 
 Forked from https://github.com/rgnyldz/rgnlabs-mediaplayer
 He has a video here: https://youtu.be/qrFpkbAZsBY
-I've added the ability to add to Music-Assistant as a sendspin player capable of syncing with other players
+I've added the ability to add to Music-Assistant as a sendspin player capable of syncing with other players. Perfect for powered speakers and amplifiers.
 
 
 Parts used;
