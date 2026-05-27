@@ -7,6 +7,9 @@ He has a video here: https://youtu.be/qrFpkbAZsBY
 I've added the ability to add to Music-Assistant as a sendspin player capable of syncing with other players. Perfect for powered speakers and amplifiers.
 
 
+If anyone knows how to add bluetooth streaming, feel free to make a pull request.
+
+
 Parts used;
 - ESP32-S3
 - PCM5102A Dac
